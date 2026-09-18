@@ -1,6 +1,6 @@
 # Hello everyone welcome to my profile.
 
-## my name is Hebah.
+## My name is Hebah.
 I am a student at **Het spectrum gent** studyding **Application and  data**.
 
 
